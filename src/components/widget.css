@@ -1,0 +1,12 @@
+.widget-container {
+  display: inline-block;
+  width: 30em;
+  box-shadow: 0 1px 20px 0 rgba(46,61,73,0.2);
+  padding: 2em;
+  border-radius: 6px;
+  margin: 1em;
+}
+
+.widget-image {
+  width: 100%;
+}
